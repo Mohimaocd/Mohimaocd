@@ -1,3 +1,4 @@
+![logo](https://github.com/Mohimaocd/Mohimaocd/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Mohima</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohimaocd&label=Profile%20views&color=0e75b6&style=flat" alt="mohimaocd" /> </p>
 
