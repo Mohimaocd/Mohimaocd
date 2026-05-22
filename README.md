@@ -16,10 +16,8 @@
  🚀 Current Focus
 
 - 🩺 Diabetes prediction using Machine Learning and XAI  
-- 🛡️ Women safety system using hand gesture recognition  
 - 👁️ Real-time suspicious activity / intrusion detection  
 - 🌐 Frontend and backend development basics  
-
 
 
 🛠️ Languages and Tools
